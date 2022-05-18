@@ -17,7 +17,6 @@ using boost::multiprecision::mpf_float_100;
 using boost::multiprecision::mpf_float_1000;
 using boost::multiprecision::float128;
 
-
 const int REPS {10000};
 
 int main(int, char**)
